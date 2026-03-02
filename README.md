@@ -19,7 +19,7 @@ Distributed mods include a reimagining of
 * Dune 2000
 
 EA has not endorsed and does not support this product.
-
+   
 Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-game) Guide to win multiplayer matches.
 
 ## Contribute
